@@ -1,8 +1,3 @@
-//
-// Created by Chen Zeng on 4/28/18.
-//
-
-
 #ifndef SCAN_JOIN_C
 #define SCAN_JOIN_C
 
