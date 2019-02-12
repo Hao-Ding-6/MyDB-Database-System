@@ -1,8 +1,3 @@
-//
-// Created by Chen Zeng on 4/28/18.
-//
-
-
 #ifndef REG_SELECTION_C
 #define REG_SELECTION_C
 
