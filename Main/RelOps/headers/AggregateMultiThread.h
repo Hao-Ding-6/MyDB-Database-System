@@ -1,7 +1,3 @@
-//
-// Created by Chen Zeng on 4/28/18.
-//
-
 #ifndef A7_AGGREGATEMULTITHREAD_H
 #define A7_AGGREGATEMULTITHREAD_H
 
