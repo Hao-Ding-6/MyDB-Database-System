@@ -1,6 +1,3 @@
-//
-// Created by Chen Zeng on 4/28/18.
-//
 #include "MyDB_Record.h"
 #include "MyDB_PageReaderWriter.h"
 #include "MyDB_TableReaderWriter.h"
